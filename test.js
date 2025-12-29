@@ -4,3 +4,6 @@ if (a > 45) {
 } else {
     console.log("smaller");
 }
+
+
+console.log("This is my initial commit")
